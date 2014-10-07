@@ -1,0 +1,17 @@
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\LogInterceptor.exe.config
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\obj\Debug\LogInterceptor.csprojResolveAssemblyReference.cache
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\LogInterceptor.exe
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\LogInterceptor.pdb
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\Castle.Core.dll
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\Castle.Windsor.dll
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\log4net.dll
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\bin\Debug\nunit.framework.dll
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\obj\Debug\LogInterceptor.exe
+c:\users\luisantonio\documents\visual studio 14\Projects\LogInterceptor\LogInterceptor\obj\Debug\LogInterceptor.pdb
+E:\LogInterceptor\LogInterceptor\bin\Debug\log4net.config
+E:\LogInterceptor\LogInterceptor\bin\Debug\LogInterceptor.exe.config
+E:\LogInterceptor\LogInterceptor\bin\Debug\LogInterceptor.exe
+E:\LogInterceptor\LogInterceptor\bin\Debug\LogInterceptor.pdb
+E:\LogInterceptor\LogInterceptor\obj\Debug\LogInterceptor.exe
+E:\LogInterceptor\LogInterceptor\obj\Debug\LogInterceptor.pdb
+E:\LogInterceptor\LogInterceptor\obj\Debug\LogInterceptor.csprojResolveAssemblyReference.cache
